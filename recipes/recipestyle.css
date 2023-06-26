@@ -1,0 +1,16 @@
+.header, 
+.header2 {
+    font-size: 60px;
+    text-align: center;
+    color: red;
+    font-family: "Times New Roman";
+}
+
+.header2 {
+    font-size: 30px;
+}
+
+p, li {
+    font-size: 22px;
+    font-family: "Times New Roman";
+}

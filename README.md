@@ -1,2 +1,2 @@
 # html-practice
-Простое закрепление HTML на практике
+Basic HTML & CSS

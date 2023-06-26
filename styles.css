@@ -1,0 +1,11 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 60px;
+}
+.list {
+    color:blue;
+    text-align: center;
+    font-size: 26px;
+    font-family: "Times New Roman", sans-serif;
+}
