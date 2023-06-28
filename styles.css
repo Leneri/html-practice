@@ -1,11 +1,40 @@
-h1 {
-    color: red;
+body {
+    background-color: #122d2d;
+    font-family: 'Times New Roman';
+}
+a {
+    text-decoration: none;
+  }
+
+a:visited {
+    color:orange;
+}
+
+.title {
+    color: rgb(255, 104, 49);
+    background-color: rgb(26, 26, 26);
     text-align: center;
     font-size: 60px;
+    padding: 14px;
+    margin: 12px;
 }
-.list {
-    color:blue;
+
+.list-container {
+    margin: 12px;
+}
+.content {
+    color:white;
+    background-color: rgb(26, 26, 26);
+    margin-top: 12px;
+    padding: 14px;
     text-align: center;
     font-size: 26px;
-    font-family: "Times New Roman", sans-serif;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: auto;
 }

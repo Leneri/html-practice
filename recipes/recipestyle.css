@@ -1,16 +1,38 @@
-.header, 
-.header2 {
-    font-size: 60px;
+ body {
+    background-color: #122d2d;
+    font-family: 'Times New Roman';
+}
+a {
+    text-decoration: none;
+  }
+
+a:visited {
+    color:orange;
+}
+
+.title {
+    color: rgb(255, 104, 49);
+    background-color: rgb(26, 26, 26);
     text-align: center;
-    color: red;
-    font-family: "Times New Roman";
+    font-size: 60px;
+    padding: 14px;
+    margin: 12px;
 }
 
-.header2 {
-    font-size: 30px;
+.list-container {
+    margin: 12px;
+}
+.content {
+    color:white;
+    background-color: rgb(26, 26, 26);
+    padding: 14px;
+    font-size: 26px;
 }
 
-p, li {
-    font-size: 22px;
-    font-family: "Times New Roman";
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
 }
